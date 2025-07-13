@@ -1,4 +1,4 @@
-# Aplikasi EOQ (Economic Order Quantity) - Grafik Diperbesar agar Penjelasan Terlihat
+# Aplikasi EOQ (Economic Order Quantity) 
 import tkinter as tk
 from tkinter import messagebox
 import matplotlib.pyplot as plt
